@@ -1,3 +1,5 @@
+🚧 This project was built during my early learning phase. I plan to refactor it as I grow.
+
 # 🔢 AVR Calculator Project (Keypad + LCD)
 
 This is a simple calculator built using AVR microcontroller (ATmega32), 4x4 Keypad, and 16x2 LCD. The calculator can perform basic arithmetic operations: addition, subtraction, multiplication, and division.
